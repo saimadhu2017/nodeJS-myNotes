@@ -1,0 +1,1 @@
+exports.validateName = (name) => name.trim().length > 0 ? true : false;
